@@ -28,3 +28,5 @@ Access your JS Bank account instantly, make payments on-the-go and transfer fund
 <img src="https://github.com/user-attachments/assets/d899d0ca-b206-4b84-96ad-640364fd094e" width="200" height="400" />
 <img src="https://github.com/user-attachments/assets/baf724a1-9d77-4355-84b8-150dfe7669f9" width="200" height="400" />
 <img src="https://github.com/user-attachments/assets/cc0ff968-53d3-46a4-bc06-153e11df3fff" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/4a555434-854a-4400-b99d-656192785811" width="200" height="400" />
+<img src="https://github.com/user-attachments/assets/f6cb9285-5fc8-4f5b-8cd1-21b8368a09fb" width="200" height="400" />
